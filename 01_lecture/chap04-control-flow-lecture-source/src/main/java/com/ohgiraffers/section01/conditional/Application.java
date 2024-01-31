@@ -10,6 +10,10 @@ public class Application {
 
         B_ifElse b = new B_ifElse();
 //        b.testSimpleIfElseStatement();
-        b.testNestedIfElseStatement();
+//        b.testNestedIfElseStatement();
+
+        C_ifElseIf c = new C_ifElseIf();
+//        c.testSimpleIfElseIfStatement();
+        c.testNestedIfElseIfStatement();
     }
 }
