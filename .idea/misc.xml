@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/01_lecture/chap02-operator-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/01_lecture/chap03-method-and-api-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/01_lecture/chap04-control-flow-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/02_practice/chap01-literal-and-variable-practice" />
+    <file type="web" url="file://$PROJECT_DIR$/02_practice/chap02-operator-practice" />
+    <file type="web" url="file://$PROJECT_DIR$/02_practice/chap04-control-flow-practice" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

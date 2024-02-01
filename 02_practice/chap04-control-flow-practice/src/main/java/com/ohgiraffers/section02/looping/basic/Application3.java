@@ -12,5 +12,9 @@ public class Application3 {
          * -- 출력 예시 --
          * 1부터 10까지 짝수의 합 : 30
          * */
+
+        A3_test a3=new A3_test();
+        a3.testStatement3();
+
     }
 }

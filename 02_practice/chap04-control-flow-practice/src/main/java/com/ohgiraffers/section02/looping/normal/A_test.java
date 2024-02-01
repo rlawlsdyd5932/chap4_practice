@@ -2,9 +2,9 @@ package com.ohgiraffers.section02.looping.normal;
 
 import java.util.Scanner;
 
-public class Application {
+public class A_test {
 
-    public static void main(String[] args) {
+    public void testStatement0() {
 
         /* 문자열을 입력 받아서 문자열의 각 인덱스별로 한 글자씩 출력하세요
          *
@@ -21,9 +21,16 @@ public class Application {
          * 4 : e
          * */
 
-        A_test a=new A_test();
-        a.testStatement0();
+        Scanner sc=new Scanner(System.in);
+        System.out.println("문자열 입력: ");
+        String str=sc.nextLine();
 
+        for(int i=0; i<str.length(); i++) {
+            char ch=str.charAt(i);
+
+            System.out.println(i+":"+ch);
+        }
 
     }
+
 }

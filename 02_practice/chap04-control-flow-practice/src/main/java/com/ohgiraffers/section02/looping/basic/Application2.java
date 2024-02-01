@@ -13,5 +13,10 @@ public class Application2 {
          * 1부터 5까지의 합 : 15
          *
          * */
+
+        A2_test a2=new A2_test();
+        a2.testStatement2();
+
+
     }
 }
