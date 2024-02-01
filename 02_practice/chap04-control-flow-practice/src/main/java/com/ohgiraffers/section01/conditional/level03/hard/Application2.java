@@ -20,6 +20,7 @@ public class Application2 {
 		 * -- 출력 예시 --
 		 * 바나나의 가격은 3000원 입니다.
 		 * */
-		
+
+
 	}
 }
